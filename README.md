@@ -3,6 +3,9 @@ I created a Static Restaurant Website with azure bot. This Azure bot takes order
 URL of My Website Hosted in Azure
 https://wonderful-bush-0a32dda10.1.azurestaticapps.net/
 
+I have uploaded my website to YouTube
+https://youtu.be/LuK46OzE16I
+
 Home page of project
 ![image](https://user-images.githubusercontent.com/104216615/167265526-23e2f64a-f9d0-4b2c-989c-c9b5ac6e3a6e.png)
 

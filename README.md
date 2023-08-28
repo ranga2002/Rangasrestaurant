@@ -2,6 +2,7 @@ I created a Static Restaurant Website with azure bot. This Azure bot takes order
 
 URL of My Website Hosted in Azure
 https://wonderful-bush-0a32dda10.1.azurestaticapps.net/
+The link expired as my azure services are expired
 
 I have uploaded my website to YouTube
 https://youtu.be/LuK46OzE16I
